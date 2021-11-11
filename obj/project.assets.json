@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ayush\\OneDrive\\Documents\\GitHub\\AssignmentSampleBlazorApp\\AssignmentSampleBlazorApp.csproj",
+      "projectUniqueName": "C:\\Users\\ayush\\OneDrive\\Documents\\GitHub\\AssignmentSampleBlazorApp\\Assignment-5\\AssignmentSampleBlazorApp.csproj",
       "projectName": "AssignmentSampleBlazorApp",
-      "projectPath": "C:\\Users\\ayush\\OneDrive\\Documents\\GitHub\\AssignmentSampleBlazorApp\\AssignmentSampleBlazorApp.csproj",
+      "projectPath": "C:\\Users\\ayush\\OneDrive\\Documents\\GitHub\\AssignmentSampleBlazorApp\\Assignment-5\\AssignmentSampleBlazorApp.csproj",
       "packagesPath": "C:\\Users\\ayush\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ayush\\OneDrive\\Documents\\GitHub\\AssignmentSampleBlazorApp\\obj\\",
+      "outputPath": "C:\\Users\\ayush\\OneDrive\\Documents\\GitHub\\AssignmentSampleBlazorApp\\Assignment-5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ayush\\AppData\\Roaming\\NuGet\\NuGet.Config"
